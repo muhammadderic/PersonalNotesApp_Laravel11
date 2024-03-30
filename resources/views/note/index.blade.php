@@ -1,6 +1,6 @@
 <x-layout>
   <div class="note-container">
-    <a href="{{ route('note.create') }}" class="new-note-btn">
+    <a href="{{ route('note.create') }}" class="new-note-button">
       New Note
     </a>
     <div class="notes">
